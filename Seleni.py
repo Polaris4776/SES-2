@@ -1,4 +1,4 @@
-__version__ = "1.3.2.0"
+__version__ = "3.3.2.0"
 
 
 class HasNoTextError(Exception):
